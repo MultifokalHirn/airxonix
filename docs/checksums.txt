@@ -1,0 +1,19 @@
+7c2ab0abeefd3e2d3426880a023b211e9e93724523068f2c178b6fc9804d0ddb  AirXonix.exe
+aaecaf0b3a201eedcaad1e9602a25f7e642f050fb70dca9461b2d7a341ce7de3  program.exe
+b2e568f82d746467e422ebcd1a5be78dcd7324a812506778826f6bbcb4918d41  setup.bin
+8c01464f8d3c9867617874b211c05a1145c5ba636881c2a9eb870d4d20f12eaa  gameinf.bin
+AirXonix.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+program.exe:  PE32 executable (GUI) Intel 80386, for MS Windows
+setup.bin:    data
+gameinf.bin:  data
+music/00.mus: data
+music/01.mus: data
+music/02.mus: data
+music/03.mus: data
+music/04.mus: data
+music/05.mus: data
+music/06.mus: data
+music/07.mus: data
+music/08.mus: RDI Acoustic Doppler Current Profiler (ADCP)
+music/09.mus: data
+music/29.mus: RDI Acoustic Doppler Current Profiler (ADCP)
